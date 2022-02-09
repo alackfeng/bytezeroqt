@@ -1,0 +1,13 @@
+module ChunkDB
+
+MainRouter		  1.0 MainRouter.qml
+HomePage		  1.0 Home/Page/HomePage.qml
+
+
+DBPage			  1.0 DB/Page/DBPage.qml
+CreateDBView	  1.0 DB/View/CreateDBView.qml
+LoadDBView		  1.0 DB/View/LoadDBView.qml
+
+
+
+TestPage		  1.0 Test/Page/TestPage.qml

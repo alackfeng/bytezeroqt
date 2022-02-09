@@ -1,0 +1,6 @@
+module Bytezero.Control
+
+BzText 1.0 BzText.qml
+BzButton 1.0 BzButton.qml
+BzFileDialog 1.0 BzFileDialog.qml
+BzFoldDialog 1.0 BzFoldDialog.qml

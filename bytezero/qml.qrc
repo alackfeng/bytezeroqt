@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>components/Bytezero/Theme/qmldir</file>
+        <file>components/Bytezero/Theme/Theme.qml</file>
+        <file>components/Bytezero/Utils/Constant.qml</file>
+        <file>components/Bytezero/Utils/qmldir</file>
+        <file>components/Bytezero/qmldir</file>
+        <file>components/Bytezero/Navigator/SlideNavigator.qml</file>
+        <file>components/Bytezero/Navigator/qmldir</file>
+        <file>components/Bytezero/Navigator/TabNavigator.qml</file>
+        <file>components/ChunkDB/DB/Page/DBPage.qml</file>
+        <file>components/ChunkDB/DB/Panel/OperControl.qml</file>
+        <file>components/ChunkDB/DB/Panel/TabMenu.qml</file>
+        <file>components/ChunkDB/DB/View/CreateDBView.qml</file>
+        <file>components/ChunkDB/DB/View/LoadDBView.qml</file>
+        <file>components/ChunkDB/Home/Page/HomePage.qml</file>
+        <file>components/ChunkDB/Test/Page/TestPage.qml</file>
+        <file>components/ChunkDB/MainRouter.qml</file>
+        <file>components/ChunkDB/qmldir</file>
+        <file>components/Bytezero/Control/BzText.qml</file>
+        <file>components/Bytezero/Control/qmldir</file>
+        <file>components/Bytezero/Control/BzButton.qml</file>
+        <file>components/Bytezero/Utils/Comm.js</file>
+        <file>components/Bytezero/Control/BzFileDialog.qml</file>
+        <file>components/Bytezero/Control/BzFoldDialog.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+module Bytezero.Navigator
+
+SlideNavigator 1.0 SlideNavigator.qml
+TabNavigator 1.0 TabNavigator.qml
